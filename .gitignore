@@ -33,4 +33,4 @@ vignettes/*.pdf
 *.knit.md
 
 # Temporary Jupyter stuff
-# */.ipynb_checkpoints/
+# .ipynb_checkpoints
